@@ -23,7 +23,7 @@ Or add everything
 ```
 svn add *
 ```
-#### 5. Push changes
+#### 5. Push changes (Check in)
 ```
 svn --username=myWordpressUsername ci -m "Commit message here"
 ```
