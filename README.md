@@ -10,6 +10,7 @@ svn co http://svn.wp-plugins.org/my-plugin-slug
 #### 2. Create/update readme.txt
 - Use the sample [readme.txt](readme.txt) from this repository.
 - You can find readme.txt specs on [wordpress.org](https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/)
+- On every new release, remember to change "Stable tag" to the latest version of your plugin.
 
 #### 3. Add your plugin code to trunk directory
 #### 4. Add new files & new directories
